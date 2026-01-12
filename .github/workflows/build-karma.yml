@@ -1,0 +1,14 @@
+name: Build Karma Xiao Firmwares
+on: workflow_dispatch
+
+jobs:
+  build:
+    uses: ./.github/workflows/main.yml
+    secrets: inherit
+    with:
+      board: '["xiao_ble"]'
+      shield: '["karma_left","karma_right"]'
+      alphas: '["QWERTY"]'
+      extra: '["AZERTY"]'
+      tap: '["QWERTY"]'
+      nav: '["VI"]'
