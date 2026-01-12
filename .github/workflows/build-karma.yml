@@ -7,7 +7,7 @@ jobs:
     secrets: inherit
     with:
       board: '["xiao_ble"]'
-      shield: '["karma_left","karma_right"]'
+      shield: '["karma_left","karma_right","karma_dongle"]'
       alphas: '["QWERTY"]'
       extra: '["AZERTY"]'
       tap: '["QWERTY"]'
