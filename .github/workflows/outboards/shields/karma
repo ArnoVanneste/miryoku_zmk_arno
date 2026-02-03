@@ -1,4 +1,4 @@
 outboard_repository=ArnoVanneste/karma-zmk-miryoku
-outboard_ref=master
+outboard_ref=nice-nano-dongle
 outboard_from=config/boards/shields/karma
 outboard_to=boards/shields/karma
