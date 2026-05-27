@@ -1,4 +1,4 @@
-outboard_repository=ArnoVanneste/karma-zmk-miryoku
+outboard_repository=achyudh/karma-zmk
 outboard_ref=master
-outboard_from=config/boards/shields/karma
+outboard_from=boards/shields/karma
 outboard_to=boards/shields/karma
