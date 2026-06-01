@@ -2,4 +2,4 @@ outboard_repository=ArnoVanneste/karma-zmk-arno
 outboard_ref=upstream
 outboard_from=boards/shields/karma
 outboard_to=boards/shields/karma
-outboard_modules=ArnoVanneste/prospector-zmk-module/core/zephyr-4-1
+outboard_modules=janpfischer/zmk-dongle-screen/upgrade-4.1
